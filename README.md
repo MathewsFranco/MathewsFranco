@@ -5,7 +5,7 @@
 </br>
 
 - Take a look at my portfolio: [mathewsfranco.github.io](mathewsfranco.github.io)
-- Current working on: [javascript30.com](javascript30.com) (Check my repo!)
+- Current working on: [javascript30](https://javascript30.com/) (Check my repo!)
 
 </br>
 </br>
