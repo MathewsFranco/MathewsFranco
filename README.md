@@ -4,8 +4,8 @@
 </br>
 </br>
 
-- Take a look at my portfolio: [mathewsfranco.github.io](mathewsfranco.github.io)
-- Current working on: [javascript30](https://javascript30.com/) ([Check my repo!](https://github.com/MathewsFranco/JavaScript30))
+- Take a look at my portfolio: <a href="mathewsfranco.github.io"> mathewsfranco.github.io </a>
+- Current working on: <a href="https://javascript30.com/" target="_blank">javascript30 </a> ([Check my repo!](https://github.com/MathewsFranco/JavaScript30))
 
 
 </br>
