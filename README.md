@@ -38,9 +38,7 @@ Basic knowledge 👓:
 <a href="https://linkedin.com/in/mathewsfranco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mathewsfranco" height="30" width="40" /></a>
 <br/>
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewsfranco&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mathewsfranco" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MathewsFranco&theme=tokyonight" alt="MathewsFranco" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathewsfranco&show_icons=true&theme=tokyonight&locale=en" alt="mathewsfranco" /></p>
 
 
