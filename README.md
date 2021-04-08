@@ -39,7 +39,7 @@ Basic knowledge 👓:
 <br/>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MathewsFranco&theme=tokyonight" alt="MathewsFranco" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathewsfranco&show_icons=true&theme=tokyonight&locale=en" alt="mathewsfranco" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathewsfranco&show_icons=true&count_private=true&theme=tokyonight&locale=en" alt="mathewsfranco" /></p>
 
 
 
