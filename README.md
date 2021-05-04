@@ -5,7 +5,8 @@
 </br>
 
 - Take a look at my portfolio: <a href="mathewsfranco.github.io"> mathewsfranco.github.io </a>
-- Current working on: <a href="https://javascript30.com/" >javascript30 </a> ([Check my repo!](https://github.com/MathewsFranco/JavaScript30))
+- Current working on: React basic exercises.
+- Last work: JS30: <a href="https://mathewsfranco.github.io/JavaScript30/"> take a look! </a>
 
 
 </br>
