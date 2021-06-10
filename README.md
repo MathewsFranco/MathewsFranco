@@ -24,19 +24,20 @@ Technologies 👓:
  <a href="http://redux.js.org/" >
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg alt="redux" width="40" height="40" /></a>&nbsp;&nbsp;
  <a href="https://sass-lang.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> </a> &nbsp;&nbsp;</br></br>
- <p>Next step 🔭:</p>
+ <p>Next steps 🔭:</p>
 
-<a href="https://nodejs.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://nextjs.org/" > <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://nodejs.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://expressjs.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://firebase.google.com/" > <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://firebase.google.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://rubyonrails.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> </a>&nbsp;&nbsp;
 
  </p>
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/mathewsfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mathewsfranco" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mathewsfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mathewsfranco" height="50" width="50" /></a>
 <br/>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MathewsFranco&theme=tokyonight" alt="MathewsFranco" /></p>
