@@ -4,9 +4,9 @@
 </br>
 </br>
 
-- Take a look at my portfolio: <a href="mathewsfranco.github.io"> mathewsfranco.github.io </a>
+- Take a look at my repositories to see my practice projects.
 - Current working on: React and Redux practice
-- Last work: JS30: <a href="https://mathewsfranco.github.io/JavaScript30/"> take a look! </a>
+
 
 </br>
 </br>
