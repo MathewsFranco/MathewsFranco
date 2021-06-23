@@ -6,6 +6,7 @@
 
 - Take a look at my repositories to see my practice projects.
 - Current working on: React and Redux practice
+- JS30 chalange: <a href="https://mathewsfranco.github.io/JavaScript30/"> take a look! </a>
 
 
 </br>
