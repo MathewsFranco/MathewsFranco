@@ -7,7 +7,7 @@
   src='https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110053d66ee9060695bc8942fd94b82d95fcc31dd4&rid=giphy.gif&ct=g' />
 
 <ul>
-  <li>Current working as front-end developer at Hero Gaming 🎰</li>
+  <li>Current working as Product Developer at [Kognic 🤖](kognic.com) </li>
   <li>Take a look at my repositories to see my practicing projects.</li>
   <li><a href="https://mathewsfranco.github.io/JavaScript30/"> JS30 chalange (2020)</a></li>
 </ul>
@@ -46,9 +46,6 @@ Technologies 👓:
 <a href="https://firebase.google.com/"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
     width="40" height="40" /> </a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb" width="40" height="40" /> </a>&nbsp;&nbsp;
 <a href="https://rubyonrails.org"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40"
     height="40" /> </a>&nbsp;&nbsp;
