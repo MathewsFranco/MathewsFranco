@@ -7,7 +7,7 @@
   src='https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110053d66ee9060695bc8942fd94b82d95fcc31dd4&rid=giphy.gif&ct=g' />
 
 <ul>
-  <li>Current working as Product Developer at [Kognic 🤖](kognic.com) </li>
+  <li>Current working as Product Developer at <a href="https://kognic.com"> Kognic 🤖 </a> </li>
   <li>Take a look at my repositories to see my practicing projects.</li>
   <li><a href="https://mathewsfranco.github.io/JavaScript30/"> JS30 chalange (2020)</a></li>
 </ul>
