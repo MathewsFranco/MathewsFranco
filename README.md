@@ -55,13 +55,9 @@ Technologies 👓:
 <a href="https://linkedin.com/in/mathewsfranco" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
     alt="mathewsfranco" height="40" width="40" /></a>
-<a href="mailto:mathewsandre.franco@gmail.com" target="blank"><img align="center"
-    src="https://www.svgrepo.com/show/10726/email.svg"
-    alt="mathewsfranco" height="40" width="40" /></a>
 <br />
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MathewsFranco&theme=tokyonight"
-    alt="MathewsFranco" /></p>
+
 <p>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=mathewsfranco&show_icons=true&count_private=true&theme=tokyonight&locale=en"
     alt="mathewsfranco" /></p>
